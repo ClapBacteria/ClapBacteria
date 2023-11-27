@@ -1,6 +1,8 @@
 - Hi, I’m @ClapBacteria
   
 - I’m Play the Guitar
+
+- I want to play guitar well
   
 - I want to play all instruments
   
